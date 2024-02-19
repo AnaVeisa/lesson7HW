@@ -1,35 +1,24 @@
-
-.square1 {
+.square {
     height: 75px;
     width: 75px;
-    background-color: rgb(105, 21, 21);
-    text-align: right;
 }
 
-.square2 {
-    height: 75px;
-    width: 75px;
-    background-color: powderblue;
-    text-align: right;
+.square1 {    
+    background-color: rgb(105, 21, 21);   
 }
 
-.square3 {
-    height: 75px;
-    width: 75px;
-    background-color: goldenrod;
-    text-align: right;
+.square2 {    
+    background-color: powderblue;   
 }
 
-.square4 {
-    height: 75px;
-    width: 75px;
-    background-color: yellowgreen;
-    text-align: right;
+.square3 {    
+    background-color: goldenrod;   
 }
 
-.square5 {
-    height: 75px;
-    width: 75px;
-    background-color: blueviolet;
-    text-align: right;
+.square4 {    
+    background-color: yellowgreen;    
+}
+
+.square5 {   
+    background-color: blueviolet;    
 }
